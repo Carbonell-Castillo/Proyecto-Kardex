@@ -57,6 +57,7 @@ Proyecto kardex
 ├─ build.xml
 ├─ manifest.mf
 └─ README.md
+```
 
 ## Licencia
 Este proyecto está bajo la licencia MIT.
