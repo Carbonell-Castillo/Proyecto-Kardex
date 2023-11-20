@@ -19,6 +19,28 @@ Este proyecto está basado en un sistema de kardex creado en NetBeans y en el le
 ## Uso
 El proyecto cuenta con una interfaz gráfica de usuario que le permitirá registrar productos, visualizarlos y realizar los movimientos (entradas y salidas) correspondientes.
 
+### Menu
+Una vez ejecutando nuestro proyecto, podemos visualizar nuestra interfaz respectivamente la cual nos permite agregar y consultar respectivamente 
+![Alt text](img/image.png)
+
+### Agregar productos
+Una vez seleccionada la opcion agregar. almacenamos nuestros productos respectivamente todo esto llevado acabo mediante un codigo unico, el nombre de nuestro articulo, su localizacion etc.
+
+![Alt text](img/image2.png)
+![Alt text](img/image3.png)
+
+### Visualizar registros
+Una vez alamacenado todos nuestros registros respectivamnete podemos visuzalizarlos, todo esto mediante nuestra tabla
+![Alt text](img/image4.png)
+
+### Actualizar producto
+Mediante los botones < >, podemos movernos en los registros y poder seleccionar cual es el registro que deseamos modficar, una vez modificado los datos le damos click al boton modificar y nos saldra un mensaje respectivamente 
+![Alt text](img/image5.png)
+
+### Eliminar
+Nuestro boton eliminar respectivamente nos permite borrar el registro respectivo, todo esto se realiza seleccionando desde el boton <> el cual permite visualizar de mejor manera el articulo que se desea eliminar 
+![Alt text](img/image6.png)
+
 ## Contribución
 Si desea contribuir a este proyecto, siga las siguientes instrucciones:
 
@@ -58,6 +80,8 @@ Proyecto kardex
 ├─ manifest.mf
 └─ README.md
 ```
+
+
 
 ## Licencia
 Este proyecto está bajo la licencia MIT.
